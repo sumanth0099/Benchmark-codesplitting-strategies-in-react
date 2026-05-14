@@ -12,16 +12,6 @@
 
 *Note: Values are based on simulated builds and Lighthouse audits. Actual results may vary slightly depending on environment.*
 
-## Network Screenshots
-
-The following screenshots illustrate the network waterfall for each strategy:
-
-- **No Splitting**: ![No Splitting Network](screenshots/no-split-dashboard.png)
-- **Route Splitting**: ![Route Splitting Network](screenshots/route-split-dashboard.png)
-- **Component Splitting**: ![Component Splitting Network](screenshots/component-split-dashboard.png)
-- **Library Splitting**: ![Library Splitting Network](screenshots/lib-split-dashboard.png)
-
-Screenshots were captured in Chrome DevTools Network tab, with cache disabled, after loading the Dashboard page.
 
 ## Recommendation
 
